@@ -1,2 +1,3 @@
 # conflict-resolution
-In class project
+
+I am making changes to this README.md 
